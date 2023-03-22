@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="horario.xsl"?>
+<horario>
+	<clase especialidad="DAWe" curso="1">
+		<hora inicio="08:00" fin="09:00" />
+		<aula num="206">
+			<modulo dia="5 viernes" profesor="Francesc Lara">BD</modulo>
+			<modulo dia="1 lunes" profesor="David Marín">SO</modulo>
+			<modulo dia="3 miercoles" profesor="Marc Vives">PB</modulo>
+			<modulo dia="4 jueves" profesor="Alicia Vázquez">XML</modulo>
+			<modulo dia="2 martes" profesor="Francesc Lara">BD</modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAMr" curso="1">
+		<hora inicio="08:00" fin="09:00" />
+		<aula num="305">
+			<modulo dia="1 lunes" profesor="Mateu Yabar">PB</modulo>
+			<modulo dia="4 jueves" profesor="Mateu Yabar">PB</modulo>
+			<modulo dia="2 martes" profesor="Bibi Rey">FOL</modulo>
+			<modulo dia="5 viernes" profesor="Laura Villalba">BD</modulo>
+			<modulo dia="3 miercoles" profesor="Bibi Rey">FOL</modulo>
+		</aula>
+	</clase>
+
+	<clase especialidad="DAMr" curso="1">
+		<hora inicio="09:00" fin="10:00" />
+		<aula num="305">
+			<modulo dia="4 jueves" profesor="Mateu Yabar">PB</modulo>
+			<modulo dia="1 lunes" profesor="Mateu Yabar">PB</modulo>
+			<modulo dia="3 miercoles" profesor="Bibi Rey">FOL</modulo>
+			<modulo dia="2 martes" profesor="Mateu Yabar">PB</modulo>
+			<modulo dia="5 viernes" profesor="Laura Villalba">BD</modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAMi" curso="1">
+		<hora inicio="09:00" fin="10:00" />
+		<aula num="306">
+			<modulo dia="5 viernes" profesor="Laura Centelles">PB</modulo>
+			<modulo dia="1 lunes" profesor="Laura Villalba">BD</modulo>
+			<modulo dia="3 miercoles" profesor="Javier Amaya">SO</modulo>
+			<modulo dia="2 martes" profesor="Laura Centelles">PB</modulo>
+			<modulo dia="4 jueves" profesor="Laura Centelles">BD</modulo>
+			
+		</aula>
+	</clase>
+	<clase especialidad="DAWe" curso="1">
+		<hora inicio="10:00" fin="11:00" />
+		<aula num="206">
+			
+			<modulo dia="2 martes" profesor="Francesc Lara">BD</modulo>
+			<modulo dia="5 viernes" profesor="Francesc Lara">BD</modulo>
+			<modulo dia="3 miercoles" profesor="Alicia Vázquez">XML</modulo>
+			<modulo dia="4 jueves" profesor="Marc Vives">PB</modulo>
+			<modulo dia="1 lunes" profesor="David Marín">SO</modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAMi" curso="1">
+		<hora inicio="11:30" fin="12:30" />
+		<aula num="306">
+			<modulo dia="1 lunes" profesor="Laura Centelles">BD</modulo>
+			<modulo dia="3 miercoles" profesor="Javier Amaya">SO</modulo>
+			<modulo dia="2 martes" profesor="Bibi Rey">FOL</modulo>
+			<modulo dia="4 jueves" profesor="Bibi Rey">FOL</modulo>
+			<modulo dia="5 viernes" profesor=""></modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAWe" curso="1">
+		<hora inicio="11:30" fin="12:30" />
+		<aula num="206">
+			<modulo dia="1 lunes" profesor="David Marín">SO</modulo>
+			
+			
+			<modulo dia="4 jueves" profesor="Rosa Maria Peiro">FOL</modulo>
+			<modulo dia="2 martes" profesor="Rosa Maria Peiro">FOL</modulo>
+			<modulo dia="5 viernes" profesor=""></modulo>
+			<modulo dia="3 miercoles" profesor="Marc Vives">PB</modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAMr" curso="1">
+		<hora inicio="11:30" fin="12:30" />
+		<aula num="305">
+			
+			
+			<modulo dia="3 miercoles" profesor="Mateu Yabar">PB</modulo>
+			<modulo dia="4 jueves" profesor="Bibi Rey">FOL</modulo>
+			<modulo dia="2 martes" profesor="Laura Villalba">BD</modulo>
+			<modulo dia="5 viernes" profesor="Alicia Vázquez">XML</modulo>
+			<modulo dia="1 lunes" profesor="Jordi Cidoncha">SO</modulo>
+			
+		</aula>
+	</clase>
+	<clase especialidad="DAMr" curso="1">
+		<hora inicio="12:30" fin="13:30" />
+		<aula num="305">
+			<modulo dia="1 lunes" profesor="Alicia Vázquez">XML</modulo>
+			<modulo dia="3 miercoles" profesor="Alicia Vázquez">XML</modulo>
+			<modulo dia="2 martes" profesor="Laura Villalba">BD</modulo>
+			<modulo dia="4 jueves" profesor="Laura Villalba">BD</modulo>
+			<modulo dia="5 viernes" profesor=""></modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAWe" curso="1">
+		<hora inicio="13:30" fin="14:30" />
+		<aula num="206">
+			<modulo dia="5 viernes" profesor="">Prácticas</modulo>
+			<modulo dia="1 lunes" profesor="David Marin">PB</modulo>
+			<modulo dia="4 jueves" profesor="Alicia Vázquez">XML</modulo>
+			<modulo dia="3 miercoles" profesor="Alicia Vázquez">Tutoria</modulo>
+			<modulo dia="2 martes" profesor=""></modulo>
+			
+		</aula>
+	</clase>
+	<clase especialidad="DAMr" curso="1">
+		<hora inicio="13:30" fin="14:30" />
+		<aula num="305">
+			<modulo dia="2 martes" profesor="Laura Villalba">BD</modulo>
+			<modulo dia="3 miercoles" profesor="Mateu Yabar">Tutoria</modulo>
+			<modulo dia="1 lunes" profesor="Jordi Casas">SO</modulo>
+			<modulo dia="5 viernes" profesor=""></modulo>
+			<modulo dia="4 jueves" profesor=""></modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAMi" curso="1">
+		<hora inicio="08:00" fin="09:00" />
+		<aula num="306">
+			<modulo dia="2 martes" profesor="Laura Centelles">PB</modulo>
+			<modulo dia="1 lunes" profesor="Laura Villalba">BD</modulo>
+			<modulo dia="4 jueves" profesor="Alicia Vázquez">XML</modulo>
+			
+			<modulo dia="3 miercoles" profesor="Jordi Casas">SO</modulo>
+			
+			<modulo dia="5 viernes" profesor="Laura Centelles">PB</modulo>
+		</aula>
+	</clase>
+	
+
+	
+	<clase especialidad="DAWe" curso="1">
+		<hora inicio="12:30" fin="13:30" />
+		<aula num="206">
+			<modulo dia="2 martes" profesor="Marc Vives">PB</modulo>
+			<modulo dia="1 lunes" profesor="Marc Vives">PB</modulo>
+			<modulo dia="5 viernes" profesor="Francesc Lara">BD</modulo>
+			<modulo dia="3 miercoles" profesor="Francesc Lara">BD</modulo>
+			<modulo dia="4 jueves" profesor="David Marín">SO</modulo>
+			
+		</aula>
+	</clase>
+	
+	
+	
+	<clase especialidad="DAMi" curso="1">
+	
+		<hora inicio="12:30" fin="13:30" />
+		<aula num="306">
+			<modulo dia="1 lunes" profesor="Jordi Casas">SO</modulo>
+			<modulo dia="3 miercoles" profesor="Alicia Vázquez">XML</modulo>
+			<modulo dia="2 martes" profesor="Bibi Rey">FOL</modulo>
+			<modulo dia="4 jueves" profesor="Alicia Vázquez">XML</modulo>
+			<modulo dia="5 viernes" profesor=""></modulo>
+		</aula>
+	</clase>
+	
+	<clase especialidad="DAMi" curso="1">
+		<hora inicio="13:30" fin="14:30" />
+		<aula num="306">
+			<modulo dia="1 lunes" profesor="Laura Villalba">BD</modulo>
+			<modulo dia="2 martes" profesor="Laura Villalba">BD</modulo>
+			<modulo dia="3 miercoles" profesor="Laura Centelles">Tutoria</modulo>
+			<modulo dia="4 jueves" profesor=""></modulo>
+			<modulo dia="5 viernes" profesor=""></modulo>
+		</aula>
+	</clase>
+
+	<clase especialidad="DAMr" curso="1">
+		<hora inicio="10:00" fin="11:00" />
+		<aula num="305">
+			
+			<modulo dia="2 martes" profesor="Mateu Yabar">PB</modulo>
+			<modulo dia="5 viernes" profesor="Mateu Yabar">PB</modulo>
+			<modulo dia="3 miercoles" profesor="Alicia Vázquez">XML</modulo>
+			<modulo dia="4 jueves" profesor="Pau Peris">SO</modulo>
+			<modulo dia="1 lunes" profesor="Pau Peris">SO</modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAMi" curso="1">
+		<hora inicio="10:00" fin="11:00" />
+		<aula num="206">
+			
+			<modulo dia="3 miercoles" profesor="Laura Centelles">PB</modulo>
+			<modulo dia="5 viernes" profesor="Laura Centelles">PB</modulo>
+			<modulo dia="2 martes" profesor="Alicia Vázquez">XML</modulo>
+			<modulo dia="1 lunes" profesor="Javier Amaya">SO</modulo>
+			<modulo dia="4 jueves" profesor="Javier Amaya">SO</modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAWe" curso="1">
+		<hora inicio="11:00" fin="11:30" />
+		<aula num="">
+			<modulo dia="1 lunes" profesor="">Patio</modulo>
+			<modulo dia="4 jueves" profesor="">Patio</modulo>
+			<modulo dia="2 martes" profesor="">Patio</modulo>
+			<modulo dia="5 viernes" profesor="">Patio</modulo>
+			<modulo dia="3 miercoles" profesor="">Patio</modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAWe" curso="1">
+	
+		<hora inicio="09:00" fin="10:00" />
+		<aula num="306">
+			<modulo dia="1 lunes" profesor="David Marin">SO</modulo>
+			<modulo dia="3 miercoles" profesor="Pol Surriel">PB</modulo>
+			<modulo dia="2 martes" profesor="Rosa Peiro">FOL</modulo>
+			<modulo dia="4 jueves" profesor="Pol Suriel">PB</modulo>
+			<modulo dia="5 viernes" profesor="Francesc Lara">BD</modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAMi" curso="1">
+		<hora inicio="11:00" fin="11:30" />
+		<aula num="">
+			<modulo dia="1 lunes" profesor="">Patio</modulo>
+			<modulo dia="4 jueves" profesor="">Patio</modulo>
+			<modulo dia="2 martes" profesor="">Patio</modulo>
+			<modulo dia="5 viernes" profesor="">Patio</modulo>
+			<modulo dia="3 miercoles" profesor="">Patio</modulo>
+		</aula>
+	</clase>
+	<clase especialidad="DAMr" curso="1">
+		<hora inicio="11:00" fin="11:30" />
+		<aula num="">
+			<modulo dia="1 lunes" profesor="">Patio</modulo>
+			<modulo dia="4 jueves" profesor="">Patio</modulo>
+			<modulo dia="2 martes" profesor="">Patio</modulo>
+			<modulo dia="5 viernes" profesor="">Patio</modulo>
+			<modulo dia="3 miercoles" profesor="">Patio</modulo>
+		</aula>
+	</clase>
+</horario>
